@@ -1,0 +1,22 @@
+{
+  "name": "dsa-trees",
+  "version": "1.0.0",
+  "description": "",
+  "main": "binary-tree.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/readytowin2298/dsa-trees.git"
+  },
+  "author": "David Ames",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/readytowin2298/dsa-trees/issues"
+  },
+  "homepage": "https://github.com/readytowin2298/dsa-trees#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
